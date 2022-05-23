@@ -15,7 +15,6 @@ export default function Form() {
         },
         method: 'POST',
       })
-
   }
 
   return (
